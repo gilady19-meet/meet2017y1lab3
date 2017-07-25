@@ -1,0 +1,6 @@
+student = input("What is your  name?")
+print(student + 'cant wait to start writing harder programs!')
+instructor = input('Who Is your favorite instructor?')
+print("Your favorite instructor is" + instructor + "and she is AWESOME.")
+team = input("Which team are you on?")
+print("team is the best team in all of MEET")
